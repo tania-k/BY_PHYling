@@ -1,0 +1,11 @@
+IQ-TREE multicore version 1.6.12 for Linux 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    c36 (AVX, FMA3, 503 GB RAM)
+Command: iqtree -alrt 1000 -bb 1000 -s TK_BY.22_taxa.fungi_odb10.2021.aa.FT_long.tre -pre TK_BY.22_taxa.fungi_odb10.2021.aa.FT_long.tre -nt AUTO
+Seed:    877812 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed Feb  9 22:34:09 2022
+Kernel:  AVX+FMA - auto-detect threads (64 CPU cores detected)
+
+Reading alignment file TK_BY.22_taxa.fungi_odb10.2021.aa.FT_long.tre ... ERROR: Unknown sequence format, please use PHYLIP, FASTA, CLUSTAL, MSF, or NEXUS format

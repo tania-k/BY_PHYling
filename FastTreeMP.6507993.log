@@ -1,0 +1,15 @@
+FastTree Version 2.1.10 Double precision (No SSE3), OpenMP (8 threads)
+Alignment: standard input
+Amino acid distances: BLOSUM45 Joins: balanced Support: Local boot 1000
+Search: Normal +NNI +SPR (2 rounds range 10) (no ML-NNI)
+TopHits: 1.00*sqrtN close=default refresh=0.80
+      1.85 seconds: Checking top hits for      1 of     22 seqs
+Initial topology in 17.36 seconds
+Refining topology: 18 rounds ME-NNIs, 2 rounds ME-SPRs, 0 rounds ML-NNIs
+     17.35 seconds: ME NNI round 1 of 18, 1 of 20 splits
+     20.13 seconds: SPR round   1 of   2, 1 of 42 nodes
+    110.97 seconds: ME NNI round 7 of 18, 1 of 20 splits
+    113.49 seconds: SPR round   2 of   2, 1 of 42 nodes
+    211.54 seconds: ME NNI round 13 of 18, 1 of 20 splits
+Total branch-length 2.190 after 217.39 sec
+Total time: 820.30 seconds Unique: 22/22 Bad splits: 0/19
